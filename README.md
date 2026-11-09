@@ -21,4 +21,4 @@ Berkas di atas adalah hasil konversi ke format ONNX dari tone color converter Op
 
 ## Pemakaian yang bertanggung jawab
 
-Gunakan hanya suara yang berhak kamu pakai. Di HypeMotion, profil suara hanya bisa dibuat dari rekaman mikrofon langsung, setelah pemilik suara menyatakan bahwa itu suaranya sendiri.
+Gunakan hanya suara yang berhak kamu pakai. Di HypeMotion, profil suara dibuat dari rekaman mikrofon atau berkas audio, dan pengguna harus menyatakan dulu bahwa suara itu miliknya atau pemiliknya sudah mengizinkan.
